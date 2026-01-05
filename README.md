@@ -34,7 +34,7 @@ npm run dev
 
 4.  `http://localhost:5173`
 
-## 🏗️ Project Structure
+##  Project Structure
 
 
 
