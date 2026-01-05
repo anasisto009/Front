@@ -1,24 +1,19 @@
-# 🎾 Padel Finder
+#  Padel Finder
 
 A modern, responsive web application for finding padel courts across Morocco's major cities.
 
-## ✨ Features
+##  Features
 
-- 🔐 **User Authentication** - Register and login system
-- 🏙️ **City Selection** - Browse courts in Casablanca, Rabat, Marrakech, and Fes
-- 🎯 **Terrain Listings** - View available padel courts with detailed information
-- 📍 **Map Integration** - Location cards for each terrain (ready for Google Maps)
-- 📞 **Contact System** - Contact form for inquiries
-- 📱 **Fully Responsive** - Works perfectly on all devices
-- 🎨 **Modern Design** - Beautiful UI with gradient colors and smooth animations
-- 🧭 **Animated Navbar** - Toggle menu with smooth animations
+-  **User Authentication** - Register and login system
+-  **City Selection** - Browse courts in Casablanca, Rabat, Marrakech, and Fes
+-  **Terrain Listings** - View available padel courts with detailed information
+-  **Map Integration** - Location cards for each terrain (ready for Google Maps)
+-  **Contact System** - Contact form for inquiries
+-  **Fully Responsive** - Works perfectly on all devices
+-  **Modern Design** - Beautiful UI with gradient colors and smooth animations
+-  **Animated Navbar** - Toggle menu with smooth animations
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
 
 ### Installation
 
@@ -37,7 +32,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and visit `http://localhost:5173`
+4.  `http://localhost:5173`
 
 ## 🏗️ Project Structure
 
@@ -66,14 +61,14 @@ Front/
 └── package.json
 ```
 
-## 🎨 Design Features
+##  Design Features
 
 - **Color Scheme**: Modern gradient design with primary (blue) and accent (purple) colors
 - **Responsive**: Mobile-first design that works on all screen sizes
 - **Animations**: Smooth transitions and hover effects
 - **Clean UI**: Minimalist design with excellent UX
 
-## 📋 Available Cities
+##  Available Cities(changeable) avec des frais qui sont logiques et reels 
 
 - **Casablanca** - 2 terrains
 - **Rabat** - 2 terrains
@@ -88,24 +83,15 @@ Front/
 - **Tailwind CSS** - Styling
 - **Local Storage** - Authentication persistence
 
-## 📝 Notes
+##  Notes
 
 - Currently uses mock data for terrains
 - Authentication is client-side only (ready for backend integration)
-- Map integration placeholder is ready for Google Maps API
+- Map integration placeholder is ready for (Google Maps API)
 - All forms include validation
 
-## 🚧 Next Steps (Backend Integration)
 
-1. Connect to MongoDB Atlas
-2. Implement real authentication with JWT
-3. Add Google Maps API for terrain locations
-4. Create booking system
-5. Add user profiles and favorites
 
-## 📄 License
-
-This project is open source and available for personal use.
 
 ---
 
