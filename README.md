@@ -41,6 +41,9 @@ npm run dev
 
 ## 🏗️ Project Structure
 
+
+
+     FIRST VIEW OF THE Code (i did modification and i add pages(matches,Friends,) i add also a google maps from google cloud (api key). 
 ```
 Front/
 ├── src/
@@ -106,4 +109,4 @@ This project is open source and available for personal use.
 
 ---
 
-Built with ❤️ for Padel enthusiasts in Morocco
+BY ANAS ELMARDI ET ZAKARIA EDDARRAZ
